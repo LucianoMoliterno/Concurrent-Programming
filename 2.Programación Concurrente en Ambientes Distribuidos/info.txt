@@ -1,0 +1,9 @@
+Concepto de transacción 
+Transacciones atómicas 
+Concepto de Granularidad  
+Isolation 
+Commit y rollback 
+Operaciones invariantes en bases de datos 
+Condición de idempotencia 
+Bloqueos y deathlock 
+Logs y checkpoints

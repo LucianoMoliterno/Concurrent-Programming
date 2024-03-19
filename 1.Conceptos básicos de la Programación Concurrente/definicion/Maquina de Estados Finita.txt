@@ -1,0 +1,1 @@
+Juegos de combate. Al simular una pelea, se debe considerar que las entradas (golpes, agresiones, recuperaciones) en combinación con el estado (nivel de energía del peleador) determinan el efecto que se manifestará como salida (tambalearse, caerse, cansarse, ser noqueado, etc.).

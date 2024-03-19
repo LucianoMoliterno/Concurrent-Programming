@@ -1,0 +1,4 @@
+Concepto de proceso 
+Estructura 
+Ciclo de vida y estados 
+Scheduling
